@@ -1,2 +1,1 @@
-### Crime Dashboard Preview
-![Crime Dashboard](dashboard_view.png)
+### Crime Dashboard Preview (Austria, Oct 2022)
